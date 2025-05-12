@@ -1,9 +1,9 @@
 import '/flutter_flow/flutter_flow_util.dart';
-import 'details_property_page_widget.dart' show DetailsPropertyPageWidget;
+import 'facilities_property_page_widget.dart' show FacilitiesPropertyPageWidget;
 import 'package:flutter/material.dart';
 
-class DetailsPropertyPageModel
-    extends FlutterFlowModel<DetailsPropertyPageWidget> {
+class FacilitiesPropertyPageModel
+    extends FlutterFlowModel<FacilitiesPropertyPageWidget> {
   @override
   void initState(BuildContext context) {}
 

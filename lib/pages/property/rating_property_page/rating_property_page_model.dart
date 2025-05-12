@@ -1,8 +1,9 @@
 import '/flutter_flow/flutter_flow_util.dart';
-import 'details_widget.dart' show DetailsWidget;
+import 'rating_property_page_widget.dart' show RatingPropertyPageWidget;
 import 'package:flutter/material.dart';
 
-class DetailsModel extends FlutterFlowModel<DetailsWidget> {
+class RatingPropertyPageModel
+    extends FlutterFlowModel<RatingPropertyPageWidget> {
   @override
   void initState(BuildContext context) {}
 

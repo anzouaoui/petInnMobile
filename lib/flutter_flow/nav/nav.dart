@@ -160,9 +160,19 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
           builder: (context, params) => PropertyPageWidget(),
         ),
         FFRoute(
-          name: DetailsPropertyPageWidget.routeName,
-          path: DetailsPropertyPageWidget.routePath,
-          builder: (context, params) => DetailsPropertyPageWidget(),
+          name: RatingPropertyPageWidget.routeName,
+          path: RatingPropertyPageWidget.routePath,
+          builder: (context, params) => RatingPropertyPageWidget(),
+        ),
+        FFRoute(
+          name: LocationPropertyPageWidget.routeName,
+          path: LocationPropertyPageWidget.routePath,
+          builder: (context, params) => LocationPropertyPageWidget(),
+        ),
+        FFRoute(
+          name: FacilitiesPropertyPageWidget.routeName,
+          path: FacilitiesPropertyPageWidget.routePath,
+          builder: (context, params) => FacilitiesPropertyPageWidget(),
         )
       ].map((r) => r.toRoute(appStateNotifier)).toList(),
     );

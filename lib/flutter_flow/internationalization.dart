@@ -153,7 +153,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     'z3r8ydmh': {
       'en': 'Find 100% pet-friendly stays near you in seconds.',
       'fr':
-          'Trouvez en quelques secondes des hébergements 100% acceptant les animaux près de chez vous.',
+          'Trouvez des hébergements 100% acceptant les animaux de compagnie près de chez vous en quelques secondes.',
     },
     'ktlp2ll6': {
       'en': 'Skip',
@@ -975,7 +975,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en':
           'Please select a payment refund method (only 80% will be refunded).',
       'fr':
-          'Veuillez sélectionner un mode de remboursement de paiement (seulement 80% seront remboursés).',
+          'Veuillez sélectionner un mode de remboursement de paiement (seulement 80 % seront remboursés).',
     },
     'bd8vmogs': {
       'en': 'Paypal',
@@ -1095,19 +1095,35 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'fr': 'Maison',
     },
   },
-  // DetailsPropertyPage
+  // RatingPropertyPage
   {
     '67uhekwu': {
-      'en': 'Details',
-      'fr': 'Détails',
+      'en': 'Rating',
+      'fr': 'Notation',
     },
-    'exwhw0aw': {
-      'en': 'Reviews',
-      'fr': 'Avis',
+    'zy099yk4': {
+      'en': 'Cleanliness',
+      'fr': 'Propreté',
     },
-    '747ae182': {
-      'en': 'See all',
-      'fr': 'Tout voir',
+    'wv8fkas8': {
+      'en': '4.8',
+      'fr': '4.8',
+    },
+    'mv37uzdw': {
+      'en': 'Services',
+      'fr': 'Services',
+    },
+    'dwcwqs74': {
+      'en': '4.9',
+      'fr': '4.9',
+    },
+    'zzimqmrd': {
+      'en': 'Location',
+      'fr': 'Emplacement',
+    },
+    'r725kr6s': {
+      'en': '4.7',
+      'fr': '4.7',
     },
     'jffib1v2': {
       'en': '4.8',
@@ -1173,23 +1189,213 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': '1 week ago',
       'fr': 'il y a 1 semaine',
     },
-    'x9pwp79v': {
-      'en': 'Price',
-      'fr': 'Prix',
-    },
-    'usme4525': {
+    'cd3i9lfh': {
       'en': '\$56',
       'fr': '56 \$',
     },
-    'a0kejeub': {
+    'c6uitoht': {
       'en': '/ night',
       'fr': '/ nuit',
     },
-    'irz2efxu': {
+    '2l4c6nn9': {
       'en': 'Book Now',
       'fr': 'Réservez maintenant',
     },
     'vwuw66gc': {
+      'en': 'Home',
+      'fr': 'Maison',
+    },
+  },
+  // LocationPropertyPage
+  {
+    'cde5lk87': {
+      'en': 'Location',
+      'fr': 'Emplacement',
+    },
+    '01w8ig95': {
+      'en': 'Location',
+      'fr': 'Emplacement',
+    },
+    'r04jt0af': {
+      'en': 'Jl. Danau Tamblingan No. 89, Sanur, Denpasar',
+      'fr': 'Jl. Danau Tamblingan n° 89, Sanur, Denpasar',
+    },
+    'ka4o9ord': {
+      'en': 'Room Type',
+      'fr': 'Type de chambre',
+    },
+    'r341vjto': {
+      'en': 'Twin View Room',
+      'fr': 'Chambre Twin avec vue',
+    },
+    'ugfc0a9q': {
+      'en': '2 Guests',
+      'fr': '2 invités',
+    },
+    'judm1uy5': {
+      'en': 'Seating Area',
+      'fr': 'Coin salon',
+    },
+    '3o0tulud': {
+      'en': 'Shower',
+      'fr': 'Douche',
+    },
+    'o2926g7v': {
+      'en': 'Air Conditioning',
+      'fr': 'Climatisation',
+    },
+    'c4d8ls61': {
+      'en': '\$56/night',
+      'fr': '56 \$/nuit',
+    },
+    'ygq4z8mh': {
+      'en': 'Suite King Bed',
+      'fr': 'Suite avec lit King Size',
+    },
+    'ksc921qu': {
+      'en': '2 Guests',
+      'fr': '2 invités',
+    },
+    '6ro4kl6i': {
+      'en': 'Dining Area',
+      'fr': 'Salle à manger',
+    },
+    'h1wdfpwt': {
+      'en': 'Bathtub',
+      'fr': 'Baignoire',
+    },
+    'ooocsczk': {
+      'en': 'Air Conditioning',
+      'fr': 'Climatisation',
+    },
+    'gimkm83m': {
+      'en': '\$64/night',
+      'fr': '64 \$/nuit',
+    },
+    'ylc0wz8r': {
+      'en': 'Twin Club Deluxe',
+      'fr': 'Twin Club Deluxe',
+    },
+    '6uw3rasv': {
+      'en': '\$56',
+      'fr': '56 \$',
+    },
+    'bxgjp8fj': {
+      'en': '/ night',
+      'fr': '/ nuit',
+    },
+    '2m2yc24w': {
+      'en': 'Book Now',
+      'fr': 'Réservez maintenant',
+    },
+    'x1rk2ul6': {
+      'en': 'Home',
+      'fr': 'Maison',
+    },
+  },
+  // FacilitiesPropertyPage
+  {
+    'psfypsfo': {
+      'en': 'Location',
+      'fr': 'Emplacement',
+    },
+    'rio7lnri': {
+      'en': 'Hotel Service',
+      'fr': 'Service hôtelier',
+    },
+    '3bld6ght': {
+      'en': '•',
+      'fr': '•',
+    },
+    '9p88xv5t': {
+      'en': 'Laundry',
+      'fr': 'Lessive',
+    },
+    'krwk6iog': {
+      'en': '•',
+      'fr': '•',
+    },
+    'c8gjrg3i': {
+      'en': 'Medical Services',
+      'fr': 'Services médicaux',
+    },
+    'evzvoc1h': {
+      'en': '•',
+      'fr': '•',
+    },
+    '15bq2i6x': {
+      'en': 'Money Changer',
+      'fr': 'Bureau de change',
+    },
+    '34iaetjs': {
+      'en': '•',
+      'fr': '•',
+    },
+    '9z1cnidc': {
+      'en': 'Luggage Storage',
+      'fr': 'Consigne à bagages',
+    },
+    'b6p8f7d1': {
+      'en': '•',
+      'fr': '•',
+    },
+    '239ln52o': {
+      'en': 'Tours',
+      'fr': 'Visites',
+    },
+    'kjrs30dz': {
+      'en': '•',
+      'fr': '•',
+    },
+    'xktq6jvn': {
+      'en': 'Concierge',
+      'fr': 'Concierge',
+    },
+    'zi7zaxx3': {
+      'en': '•',
+      'fr': '•',
+    },
+    '382r0wa2': {
+      'en': '24 hour Security',
+      'fr': 'Sécurité 24 heures sur 24',
+    },
+    'ckaopirg': {
+      'en': '•',
+      'fr': '•',
+    },
+    '6g9ba75z': {
+      'en': 'Bellhop',
+      'fr': 'Groom',
+    },
+    't6x0t1k0': {
+      'en': 'Things to Do',
+      'fr': 'Choses à faire',
+    },
+    'u8x4o2jg': {
+      'en': 'Foods and Drinks',
+      'fr': 'Aliments et boissons',
+    },
+    't9366c4y': {
+      'en': 'General',
+      'fr': 'Général',
+    },
+    'wbr7vpuh': {
+      'en': 'Nearby Facilities',
+      'fr': 'Installations à proximité',
+    },
+    'l2f07iyw': {
+      'en': 'Public Facilities',
+      'fr': 'Équipements publics',
+    },
+    'dheijb6t': {
+      'en': 'Sports and Recreations',
+      'fr': 'Sports et loisirs',
+    },
+    'qfgwhuma': {
+      'en': 'Transportation',
+      'fr': 'Transport',
+    },
+    'ytalemw3': {
       'en': 'Home',
       'fr': 'Maison',
     },
@@ -1472,99 +1678,66 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'fr': 'D\'ACCORD',
     },
   },
-  // details
+  // FavoritsCollectionComponent
   {
-    't0pmg1yp': {
-      'en': 'Detail Properties',
-      'fr': 'Propriétés détaillées',
+    'uj40rzrh': {
+      'en': 'Add to favorite collection',
+      'fr': 'Ajouter à la collection de favoris',
     },
-    'o6v4cvlt': {
-      'en': 'Reviews',
-      'fr': 'Avis',
+    'r07ttnvp': {
+      'en': 'Favorite',
+      'fr': 'Préféré',
     },
-    's4df5ep9': {
-      'en': 'See all',
-      'fr': 'Tout voir',
+    'zda1xivg': {
+      'en': '12 propertirs',
+      'fr': '12 propriétés',
     },
-    '8mut3593': {
-      'en': '4.8',
-      'fr': '4.8',
+    '9gb7x7yx': {
+      'en': 'Favorite',
+      'fr': 'Préféré',
     },
-    'bxx7824q': {
-      'en': '374 Reviews',
-      'fr': '374 avis',
+    'chll1v9b': {
+      'en': '12 propertirs',
+      'fr': '12 propriétés',
     },
-    'd9acipw0': {
-      'en': '5',
-      'fr': '5',
+    'mgcsxzef': {
+      'en': 'Favorite',
+      'fr': 'Préféré',
     },
-    '2apjavc9': {
-      'en': '4',
-      'fr': '4',
+    'ypwjocoh': {
+      'en': '12 propertirs',
+      'fr': '12 propriétés',
     },
-    '21fo96lb': {
-      'en': '3',
-      'fr': '3',
+    '289q9k6b': {
+      'en': 'Favorite',
+      'fr': 'Préféré',
     },
-    'cux2cyp8': {
-      'en': '2',
-      'fr': '2',
+    'wmsn6eda': {
+      'en': '12 propertirs',
+      'fr': '12 propriétés',
     },
-    's358ecbr': {
-      'en': '1',
-      'fr': '1',
+    'o8c7agqj': {
+      'en': 'New collection',
+      'fr': 'Nouvelle collection',
     },
-    'pxkmwvk2': {
-      'en': 'Abraham Adam',
-      'fr': 'Abraham Adam',
+  },
+  // CreateFavoriteCollectionComponent
+  {
+    '31ttoz53': {
+      'en': 'Create Note',
+      'fr': 'Créer une note',
     },
-    'eqrp1oyd': {
-      'en': '2 days ago',
-      'fr': 'il y a 2 jours',
+    'o1khn15w': {
+      'en': 'Name',
+      'fr': 'Nom',
     },
-    'do4nu8a1': {
-      'en':
-          'First of all, the location of this hotel is between the beach and fun street where full of shops, restaurants/bars, spas, and more.',
-      'fr':
-          'Tout d\'abord, l\'emplacement de cet hôtel se situe entre la plage et une rue animée où regorgent de boutiques, de restaurants/bars, de spas et bien plus encore.',
+    'pwqvt38b': {
+      'en': 'Enter your note here...',
+      'fr': 'Entrez votre note ici...',
     },
-    'fnq6ejlv': {
-      'en': 'Jessica Wong',
-      'fr': 'Jessica Wong',
-    },
-    'y7q6qwwj': {
-      'en': '5 days ago',
-      'fr': 'il y a 5 jours',
-    },
-    's48rc6r0': {
-      'en':
-          'Beautiful hotel which had everything you could need. Rooms were spotless and well appointed.',
-      'fr':
-          'Bel hôtel offrant tout le nécessaire. Les chambres étaient impeccables et bien aménagées.',
-    },
-    'j739tl89': {
-      'en': 'Joe Alexander',
-      'fr': 'Joe Alexander',
-    },
-    '9uzfuy4u': {
-      'en': '1 week ago',
-      'fr': 'il y a 1 semaine',
-    },
-    '3d4jcbyo': {
-      'en': 'Price',
-      'fr': 'Prix',
-    },
-    'ad571mr0': {
-      'en': '\$56',
-      'fr': '56 \$',
-    },
-    'l1bquwrt': {
-      'en': '/ night',
-      'fr': '/ nuit',
-    },
-    'whurw4uy': {
-      'en': 'Book Now',
-      'fr': 'Réservez maintenant',
+    'e18qii61': {
+      'en': 'Create',
+      'fr': 'Créer',
     },
   },
   // Miscellaneous

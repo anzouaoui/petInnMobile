@@ -24,5 +24,9 @@ export '/pages/booking/refund_method_page/refund_method_page_widget.dart'
     show RefundMethodPageWidget;
 export '/pages/property/property_page/property_page_widget.dart'
     show PropertyPageWidget;
-export '/pages/booking/details_property_page/details_property_page_widget.dart'
-    show DetailsPropertyPageWidget;
+export '/pages/property/rating_property_page/rating_property_page_widget.dart'
+    show RatingPropertyPageWidget;
+export '/pages/property/location_property_page/location_property_page_widget.dart'
+    show LocationPropertyPageWidget;
+export '/pages/property/facilities_property_page/facilities_property_page_widget.dart'
+    show FacilitiesPropertyPageWidget;

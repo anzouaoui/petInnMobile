@@ -1,7 +1,9 @@
+import '/components/favorits_collection_component/favorits_collection_component_widget.dart';
 import '/flutter_flow/flutter_flow_icon_button.dart';
 import '/flutter_flow/flutter_flow_theme.dart';
 import '/flutter_flow/flutter_flow_util.dart';
 import '/flutter_flow/flutter_flow_widgets.dart';
+import '/index.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'property_page_model.dart';
@@ -268,8 +270,27 @@ class _PropertyPageWidgetState extends State<PropertyPageWidget> {
                               color: FlutterFlowTheme.of(context).error,
                               size: 24.0,
                             ),
-                            onPressed: () {
-                              print('IconButton pressed ...');
+                            onPressed: () async {
+                              await showModalBottomSheet(
+                                isScrollControlled: true,
+                                backgroundColor: Colors.transparent,
+                                enableDrag: false,
+                                context: context,
+                                builder: (context) {
+                                  return GestureDetector(
+                                    onTap: () {
+                                      FocusScope.of(context).unfocus();
+                                      FocusManager.instance.primaryFocus
+                                          ?.unfocus();
+                                    },
+                                    child: Padding(
+                                      padding: MediaQuery.viewInsetsOf(context),
+                                      child:
+                                          FavoritsCollectionComponentWidget(),
+                                    ),
+                                  );
+                                },
+                              ).then((value) => safeSetState(() {}));
                             },
                           ),
                         ],
@@ -309,38 +330,43 @@ class _PropertyPageWidgetState extends State<PropertyPageWidget> {
                           ),
                         ].divide(SizedBox(width: 4.0)),
                       ),
-                      Row(
-                        mainAxisSize: MainAxisSize.max,
-                        children: [
-                          Icon(
-                            Icons.star,
-                            color: FlutterFlowTheme.of(context).warning,
-                            size: 16.0,
-                          ),
-                          Icon(
-                            Icons.star,
-                            color: FlutterFlowTheme.of(context).warning,
-                            size: 16.0,
-                          ),
-                          Icon(
-                            Icons.star,
-                            color: FlutterFlowTheme.of(context).warning,
-                            size: 16.0,
-                          ),
-                          Icon(
-                            Icons.star,
-                            color: FlutterFlowTheme.of(context).warning,
-                            size: 16.0,
-                          ),
-                          Icon(
-                            Icons.star_half,
-                            color: FlutterFlowTheme.of(context).warning,
-                            size: 16.0,
-                          ),
-                          Padding(
-                            padding: EdgeInsetsDirectional.fromSTEB(
-                                0.0, 0.0, 0.0, 4.0),
-                            child: Text(
+                      InkWell(
+                        splashColor: Colors.transparent,
+                        focusColor: Colors.transparent,
+                        hoverColor: Colors.transparent,
+                        highlightColor: Colors.transparent,
+                        onTap: () async {
+                          context.pushNamed(RatingPropertyPageWidget.routeName);
+                        },
+                        child: Row(
+                          mainAxisSize: MainAxisSize.max,
+                          children: [
+                            Icon(
+                              Icons.star,
+                              color: FlutterFlowTheme.of(context).warning,
+                              size: 16.0,
+                            ),
+                            Icon(
+                              Icons.star,
+                              color: FlutterFlowTheme.of(context).warning,
+                              size: 16.0,
+                            ),
+                            Icon(
+                              Icons.star,
+                              color: FlutterFlowTheme.of(context).warning,
+                              size: 16.0,
+                            ),
+                            Icon(
+                              Icons.star,
+                              color: FlutterFlowTheme.of(context).warning,
+                              size: 16.0,
+                            ),
+                            Icon(
+                              Icons.star_half,
+                              color: FlutterFlowTheme.of(context).warning,
+                              size: 16.0,
+                            ),
+                            Text(
                               FFLocalizations.of(context).getText(
                                 'okhzqds4' /* 4.8 */,
                               ),
@@ -360,11 +386,7 @@ class _PropertyPageWidgetState extends State<PropertyPageWidget> {
                                         .fontStyle,
                                   ),
                             ),
-                          ),
-                          Padding(
-                            padding: EdgeInsetsDirectional.fromSTEB(
-                                0.0, 0.0, 0.0, 4.0),
-                            child: Text(
+                            Text(
                               FFLocalizations.of(context).getText(
                                 'rjwxqioc' /* • 374 reviews */,
                               ),
@@ -390,8 +412,8 @@ class _PropertyPageWidgetState extends State<PropertyPageWidget> {
                                         .fontStyle,
                                   ),
                             ),
-                          ),
-                        ].divide(SizedBox(width: 4.0)),
+                          ].divide(SizedBox(width: 4.0)),
+                        ),
                       ),
                       Row(
                         mainAxisSize: MainAxisSize.max,
