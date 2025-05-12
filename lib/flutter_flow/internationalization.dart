@@ -1400,6 +1400,558 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'fr': 'Maison',
     },
   },
+  // BookingPropertyPage
+  {
+    'tugfiwh8': {
+      'en': 'Booking & Payment',
+      'fr': 'Réservation et paiement',
+    },
+    '3usunpjr': {
+      'en': '1',
+      'fr': '1',
+    },
+    'tjgiccy2': {
+      'en': 'Booking',
+      'fr': 'Réservation',
+    },
+    '74so9fxu': {
+      'en': '2',
+      'fr': '2',
+    },
+    'qumw8kql': {
+      'en': 'Info',
+      'fr': 'Informations',
+    },
+    'jvl24hvn': {
+      'en': '3',
+      'fr': '3',
+    },
+    'huaa3f19': {
+      'en': 'Payment',
+      'fr': 'Paiement',
+    },
+    'oi6gsano': {
+      'en': 'Hyatt Regency Bali',
+      'fr': 'Hyatt Regency Bali',
+    },
+    'wmffnk3h': {
+      'en': 'Denpasar, Bali',
+      'fr': 'Denpasar, Bali',
+    },
+    'bd81jt0o': {
+      'en': 'Suite King Bed',
+      'fr': 'Suite avec lit King Size',
+    },
+    'zpvw4twg': {
+      'en': '\$64/night',
+      'fr': '64 \$/nuit',
+    },
+    'oins567w': {
+      'en': '4.8',
+      'fr': '4.8',
+    },
+    'yoy2ztnv': {
+      'en': 'Date',
+      'fr': 'Date',
+    },
+    'xt3eds78': {
+      'en': 'Date',
+      'fr': 'Date',
+    },
+    'nxgdrgw5': {
+      'en': 'Guest',
+      'fr': 'Invité',
+    },
+    '6ree3rt8': {
+      'en': 'Add guest',
+      'fr': 'Ajouter un invité',
+    },
+    '6i7ij1au': {
+      'en': 'Animals',
+      'fr': 'Animaux',
+    },
+    'k5tt077v': {
+      'en': 'Dog',
+      'fr': 'Chien',
+    },
+    'pafzkjow': {
+      'en': 'Select...',
+      'fr': 'Sélectionner...',
+    },
+    '318i85ga': {
+      'en': 'Search...',
+      'fr': 'Recherche...',
+    },
+    'cwm0m8vb': {
+      'en': 'Dog',
+      'fr': 'Chien',
+    },
+    'o5m1yzda': {
+      'en': 'Cat',
+      'fr': 'Chat',
+    },
+    'ctycp767': {
+      'en': 'Rabbit',
+      'fr': 'Lapin',
+    },
+    '2a43ydxz': {
+      'en': 'Additional Request',
+      'fr': 'Demande supplémentaire',
+    },
+    '0o5k4zkh': {
+      'en': 'Add request',
+      'fr': 'Ajouter une demande',
+    },
+    'sd73o01c': {
+      'en': 'Next',
+      'fr': 'Suivant',
+    },
+    'l6gw9g8j': {
+      'en': '1',
+      'fr': '1',
+    },
+    'dpw5yazc': {
+      'en': 'Booking',
+      'fr': 'Réservation',
+    },
+    't6h88cr9': {
+      'en': '2',
+      'fr': '2',
+    },
+    'fnr18lv7': {
+      'en': 'Info',
+      'fr': 'Informations',
+    },
+    '48ogmzgz': {
+      'en': '3',
+      'fr': '3',
+    },
+    'pr572cdp': {
+      'en': 'Payment',
+      'fr': 'Paiement',
+    },
+    '36s9n5uc': {
+      'en': 'Name',
+      'fr': 'Nom',
+    },
+    'smckq6dw': {
+      'en': 'Enter your name',
+      'fr': 'Entrez votre nom',
+    },
+    'ivsr7brs': {
+      'en': 'Firstname',
+      'fr': 'Prénom',
+    },
+    'sniqzppv': {
+      'en': 'Enter your firstname',
+      'fr': 'Entrez votre prénom',
+    },
+    '72yhfgrt': {
+      'en': 'Birthday',
+      'fr': 'Anniversaire',
+    },
+    'mhpyekgt': {
+      'en': 'Enter your birthday',
+      'fr': 'Entrez votre date de naissance',
+    },
+    'ypkyfniz': {
+      'en': 'Email',
+      'fr': 'E-mail',
+    },
+    '6s3vih52': {
+      'en': 'Enter your email',
+      'fr': 'Entrez votre email',
+    },
+    'm3wwgwbh': {
+      'en': 'Post Address',
+      'fr': 'Adresse postale',
+    },
+    'fb78kr95': {
+      'en': 'Enter your post Address',
+      'fr': 'Entrez votre adresse postale',
+    },
+    'cf2zi02q': {
+      'en': 'Phone Number',
+      'fr': 'Numéro de téléphone',
+    },
+    'o3zrancb': {
+      'en': '+1',
+      'fr': '+1',
+    },
+    'gk0yj4u1': {
+      'en': 'Enter your phone number',
+      'fr': 'Entrez votre numéro de téléphone',
+    },
+    'lqwr3t4u': {
+      'en': 'Next',
+      'fr': 'Suivant',
+    },
+    '3a9l0208': {
+      'en': '1',
+      'fr': '1',
+    },
+    'hi22x2vf': {
+      'en': 'Booking',
+      'fr': 'Réservation',
+    },
+    'lhawvzdy': {
+      'en': '2',
+      'fr': '2',
+    },
+    '0bedeb43': {
+      'en': 'Info',
+      'fr': 'Informations',
+    },
+    '1vjg3ja9': {
+      'en': '3',
+      'fr': '3',
+    },
+    'yvyd894l': {
+      'en': 'Payment',
+      'fr': 'Paiement',
+    },
+    'cdixkt9c': {
+      'en': 'Hyatt Regency Bali',
+      'fr': 'Hyatt Regency Bali',
+    },
+    'w0tckthj': {
+      'en': 'Denpasar, Bali',
+      'fr': 'Denpasar, Bali',
+    },
+    'wfmipro5': {
+      'en': 'Suite King Bed',
+      'fr': 'Suite avec lit King Size',
+    },
+    'tlkvddhg': {
+      'en': '\$64/night',
+      'fr': '64 \$/nuit',
+    },
+    '7bd1t6mb': {
+      'en': '4.8',
+      'fr': '4.8',
+    },
+    'ctp2pkq7': {
+      'en': 'Check in',
+      'fr': 'Enregistrement',
+    },
+    'bxa89341': {
+      'en': 'Mon, 16 Sep',
+      'fr': 'Lun. 16 sept.',
+    },
+    '3wbf3qk1': {
+      'en': '14:00',
+      'fr': '14h00',
+    },
+    'tpgjsscw': {
+      'en': '2 Nights',
+      'fr': '2 nuits',
+    },
+    '2utoktq6': {
+      'en': 'Check out',
+      'fr': 'Vérifier',
+    },
+    'wl7tohzo': {
+      'en': 'Thu, 18 Sep',
+      'fr': 'Jeu, 18 sept.',
+    },
+    '9mk81bxv': {
+      'en': '12:00',
+      'fr': '12h00',
+    },
+    '9zoxyrmm': {
+      'en': 'Guests and Rooms',
+      'fr': 'Invités et chambres',
+    },
+    '7x9csin5': {
+      'en': '2 Rooms | 4 Guests',
+      'fr': '2 chambres | 4 personnes',
+    },
+    'f5nzeiec': {
+      'en': 'Guest Info',
+      'fr': 'Informations pour les invités',
+    },
+    'yjcxz4kj': {
+      'en': 'Hasna Azlya',
+      'fr': 'Hasna Azlya',
+    },
+    'xpavqrtc': {
+      'en': 'Choose payment method',
+      'fr': 'Choisissez le mode de paiement',
+    },
+    'tmtg2tbt': {
+      'en': 'Add promo',
+      'fr': 'Ajouter une promotion',
+    },
+    'qokkynl8': {
+      'en': 'Amount',
+      'fr': 'Montant',
+    },
+    '73okkj9y': {
+      'en': '\$256',
+      'fr': '256 \$',
+    },
+    'o10uu4mf': {
+      'en': 'Tax',
+      'fr': 'Impôt',
+    },
+    'u2e7a3za': {
+      'en': '\$2.56',
+      'fr': '2,56 \$',
+    },
+    'eh5iw6t6': {
+      'en': 'Total',
+      'fr': 'Total',
+    },
+    'jm9eksnp': {
+      'en': '\$258.56',
+      'fr': '258,56 \$',
+    },
+    'awcy1ga5': {
+      'en': 'Book Now',
+      'fr': 'Réservez maintenant',
+    },
+    'hfs228id': {
+      'en': 'Home',
+      'fr': 'Maison',
+    },
+  },
+  // AddCardPage
+  {
+    'oocb21wo': {
+      'en': 'Add New Card',
+      'fr': 'Ajouter une nouvelle carte',
+    },
+    '4iegahjt': {
+      'en': 'VISA',
+      'fr': 'VISA',
+    },
+    'kcy4b4e2': {
+      'en': '* * * *  * * * *  * * * *  * * * *',
+      'fr': '* * * * * * * * * * * * * * * *',
+    },
+    '5x5zdy8n': {
+      'en': '\$0.00',
+      'fr': '0,00 \$',
+    },
+    'p2laebn0': {
+      'en': 'Cardholder name',
+      'fr': 'Nom du titulaire de la carte',
+    },
+    '3zup4r2i': {
+      'en': 'Name',
+      'fr': 'Nom',
+    },
+    'nrrj9ohl': {
+      'en': 'Expiry date',
+      'fr': 'Date d\'expiration',
+    },
+    'idhrfref': {
+      'en': 'MM/DD',
+      'fr': 'MM/JJ',
+    },
+    'crzevuch': {
+      'en': 'Cardholder Name',
+      'fr': 'Nom du titulaire de la carte',
+    },
+    'e061xhsl': {
+      'en': 'Enter your cardholder name',
+      'fr': 'Entrez le nom du titulaire de votre carte',
+    },
+    'a2g7c8q0': {
+      'en': 'Card Number',
+      'fr': 'Numéro de carte',
+    },
+    's4a3dify': {
+      'en': 'Enter your card email',
+      'fr': 'Entrez l\'email de votre carte',
+    },
+    'yevrbh61': {
+      'en': 'Expiry Date',
+      'fr': 'Date d\'expiration',
+    },
+    '38metyfy': {
+      'en': 'MM/YY',
+      'fr': 'MM/AA',
+    },
+    'u9r5g71x': {
+      'en': 'CVV',
+      'fr': 'CVV',
+    },
+    'tzxcm1w5': {
+      'en': '3 digits',
+      'fr': '3 chiffres',
+    },
+    'wfctghlg': {
+      'en': 'Zip Code',
+      'fr': 'Code postal',
+    },
+    '2fr91kvh': {
+      'en': 'Enter your zip code',
+      'fr': 'Entrez votre code postal',
+    },
+    'c4sju7eo': {
+      'en': 'Save and Continue',
+      'fr': 'Enregistrer et continuer',
+    },
+    'sbvrepkp': {
+      'en': 'Home',
+      'fr': 'Maison',
+    },
+  },
+  // BookinPaymentResultPage
+  {
+    'i5jouzkw': {
+      'en': 'Booking & Payment',
+      'fr': 'Réservation et paiement',
+    },
+    'f11w6d2y': {
+      'en': 'Payment Success',
+      'fr': 'Paiement réussi',
+    },
+    'qqdv0shq': {
+      'en':
+          'Your hotel booking is secured and a\nconfirmation has been sent to your email.',
+      'fr':
+          'Votre réservation d\'hôtel est sécurisée et une confirmation vous a été envoyée par e-mail.',
+    },
+    'yxwpwh8x': {
+      'en': 'Back to Home',
+      'fr': 'Retour à l\'accueil',
+    },
+    'uk9690ql': {
+      'en': 'E - Receipt',
+      'fr': 'E - Reçu',
+    },
+    '12c83ir2': {
+      'en': 'Payment Error',
+      'fr': 'Erreur de paiement',
+    },
+    'wlibwg1h': {
+      'en':
+          'Your hotel booking is secured and a\nconfirmation has been sent to your email.',
+      'fr':
+          'Votre réservation d\'hôtel est sécurisée et une confirmation vous a été envoyée par e-mail.',
+    },
+    'wo7dlqrj': {
+      'en': 'Back to Home',
+      'fr': 'Retour à l\'accueil',
+    },
+    '4q3w29zn': {
+      'en': 'Try again',
+      'fr': 'Essayer à nouveau',
+    },
+    'xz7f4br1': {
+      'en': 'Home',
+      'fr': 'Maison',
+    },
+  },
+  // TicketPage
+  {
+    'aiw2d4iy': {
+      'en': 'E-Receipt',
+      'fr': 'Reçu électronique',
+    },
+    'llugz59k': {
+      'en': 'Hyatt Regency Bali',
+      'fr': 'Hyatt Regency Bali',
+    },
+    'rogh5se6': {
+      'en': 'Denpasar, Bali',
+      'fr': 'Denpasar, Bali',
+    },
+    'tmdtrm09': {
+      'en': 'Suite King Bed',
+      'fr': 'Suite avec lit King Size',
+    },
+    'ptu2993h': {
+      'en': 'Check in',
+      'fr': 'Enregistrement',
+    },
+    'tmiiztfo': {
+      'en': 'Mon, 16 Sep',
+      'fr': 'Lun. 16 sept.',
+    },
+    'ntanvayg': {
+      'en': '14:00',
+      'fr': '14h00',
+    },
+    '0vvl295e': {
+      'en': '2 Nights',
+      'fr': '2 nuits',
+    },
+    'hzscy7b2': {
+      'en': 'Check out',
+      'fr': 'Vérifier',
+    },
+    'gbz524x0': {
+      'en': 'Thu, 18 Sep',
+      'fr': 'Jeu, 18 sept.',
+    },
+    'if27492e': {
+      'en': '12:00',
+      'fr': '12h00',
+    },
+    'mwh2fwsv': {
+      'en': 'Guests and Rooms',
+      'fr': 'Invités et chambres',
+    },
+    'bopz91fx': {
+      'en': '2 Rooms | 4 Guests',
+      'fr': '2 chambres | 4 personnes',
+    },
+    'j4mdn5oj': {
+      'en': 'Guest Info',
+      'fr': 'Informations pour les invités',
+    },
+    'fetwo5xa': {
+      'en': 'Hasna Azlya',
+      'fr': 'Hasna Azlya',
+    },
+    'gqtzh3iv': {
+      'en': 'Amount',
+      'fr': 'Montant',
+    },
+    'juccez4l': {
+      'en': '\$256',
+      'fr': '256 \$',
+    },
+    'd4pptn72': {
+      'en': 'Tax',
+      'fr': 'Impôt',
+    },
+    'melw5qh3': {
+      'en': '\$2.56',
+      'fr': '2,56 \$',
+    },
+    'dyelfy5i': {
+      'en': 'Discount 20%',
+      'fr': 'Remise de 20%',
+    },
+    '3snb1jiv': {
+      'en': '-\$51.7',
+      'fr': '-51,7 \$',
+    },
+    'drikatt3': {
+      'en': 'Total',
+      'fr': 'Total',
+    },
+    'e60e3o76': {
+      'en': '\$206.86',
+      'fr': '206,86 \$',
+    },
+    'hljbu3bb': {
+      'en': 'Back to Home',
+      'fr': 'Retour à l\'accueil',
+    },
+    'uz8k746r': {
+      'en': 'Download',
+      'fr': 'Télécharger',
+    },
+    '3c1luzp7': {
+      'en': 'Home',
+      'fr': 'Maison',
+    },
+  },
   // PropertyCardComponent
   {
     'lfnew9as': {
@@ -1430,16 +1982,16 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'fr': 'Septembre 2024',
     },
     'oebobw44': {
-      'en': 'From',
-      'fr': 'Depuis',
+      'en': 'Arrived date',
+      'fr': 'Date d\'arrivée',
     },
     'yrbrsue9': {
       'en': '16 Sep 2024',
       'fr': '16 septembre 2024',
     },
     'qyfrofg0': {
-      'en': 'To',
-      'fr': 'À',
+      'en': 'Departure date',
+      'fr': 'Date de départ',
     },
     '663qcq7m': {
       'en': '20 Sep 2024',
@@ -1738,6 +2290,72 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     'e18qii61': {
       'en': 'Create',
       'fr': 'Créer',
+    },
+  },
+  // SelectAdditionalRequestComponent
+  {
+    'lbs7lt7f': {
+      'en': 'Select Guest',
+      'fr': 'Sélectionner un invité',
+    },
+    'h7jccpf0': {
+      'en': 'Smoking room',
+      'fr': 'Fumoir',
+    },
+    'nxrbu2ju': {
+      'en': 'Connecting rooms',
+      'fr': 'Chambres communicantes',
+    },
+    'jnu750lh': {
+      'en': 'High Floor',
+      'fr': 'Étage élevé',
+    },
+    '73b6909i': {
+      'en': 'Low floor',
+      'fr': 'Plancher bas',
+    },
+    '8g3j04eg': {
+      'en': 'Confirm',
+      'fr': 'Confirmer',
+    },
+  },
+  // PaymentComponent
+  {
+    'dyyoo1jm': {
+      'en': 'Select Method Payment',
+      'fr': 'Sélectionnez le mode de paiement',
+    },
+    '954h3uh8': {
+      'en': 'Mastercard',
+      'fr': 'MasterCard',
+    },
+    '3vbpt2o4': {
+      'en': '•••• •••• •••• 2718',
+      'fr': '•••• •••• •••• 2718',
+    },
+    'lzdosvnl': {
+      'en': 'VISA',
+      'fr': 'VISA',
+    },
+    'n5ac8vd4': {
+      'en': '•••• •••• •••• 3579',
+      'fr': '•••• •••• •••• 3579',
+    },
+    'b1v92tjs': {
+      'en': 'Paypal',
+      'fr': 'PayPal',
+    },
+    'o33ignkk': {
+      'en': 'hasnaaz****@gmail.com',
+      'fr': 'hasnaaz****@gmail.com',
+    },
+    '3nh7062x': {
+      'en': 'Add new card',
+      'fr': 'Ajouter une nouvelle carte',
+    },
+    'c1c2e5s8': {
+      'en': 'Confirm',
+      'fr': 'Confirmer',
     },
   },
   // Miscellaneous

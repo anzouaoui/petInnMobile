@@ -229,7 +229,7 @@ class _SelectDateComponentWidgetState extends State<SelectDateComponentWidget> {
                     children: [
                       Text(
                         FFLocalizations.of(context).getText(
-                          'oebobw44' /* From */,
+                          'oebobw44' /* Arrived date */,
                         ),
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
                               font: GoogleFonts.quicksand(
@@ -307,7 +307,7 @@ class _SelectDateComponentWidgetState extends State<SelectDateComponentWidget> {
                     children: [
                       Text(
                         FFLocalizations.of(context).getText(
-                          'qyfrofg0' /* To */,
+                          'qyfrofg0' /* Departure date */,
                         ),
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
                               font: GoogleFonts.quicksand(

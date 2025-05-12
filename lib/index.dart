@@ -30,3 +30,11 @@ export '/pages/property/location_property_page/location_property_page_widget.dar
     show LocationPropertyPageWidget;
 export '/pages/property/facilities_property_page/facilities_property_page_widget.dart'
     show FacilitiesPropertyPageWidget;
+export '/pages/booking/booking_property_page/booking_property_page_widget.dart'
+    show BookingPropertyPageWidget;
+export '/pages/booking/add_card_page/add_card_page_widget.dart'
+    show AddCardPageWidget;
+export '/pages/booking/bookin_payment_result_page/bookin_payment_result_page_widget.dart'
+    show BookinPaymentResultPageWidget;
+export '/pages/booking/ticket_page/ticket_page_widget.dart'
+    show TicketPageWidget;

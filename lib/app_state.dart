@@ -31,4 +31,10 @@ class FFAppState extends ChangeNotifier {
   set HasNotifications(bool value) {
     _HasNotifications = value;
   }
+
+  bool _PaymentSuccess = false;
+  bool get PaymentSuccess => _PaymentSuccess;
+  set PaymentSuccess(bool value) {
+    _PaymentSuccess = value;
+  }
 }

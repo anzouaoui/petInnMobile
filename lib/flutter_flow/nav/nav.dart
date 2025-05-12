@@ -173,6 +173,26 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
           name: FacilitiesPropertyPageWidget.routeName,
           path: FacilitiesPropertyPageWidget.routePath,
           builder: (context, params) => FacilitiesPropertyPageWidget(),
+        ),
+        FFRoute(
+          name: BookingPropertyPageWidget.routeName,
+          path: BookingPropertyPageWidget.routePath,
+          builder: (context, params) => BookingPropertyPageWidget(),
+        ),
+        FFRoute(
+          name: AddCardPageWidget.routeName,
+          path: AddCardPageWidget.routePath,
+          builder: (context, params) => AddCardPageWidget(),
+        ),
+        FFRoute(
+          name: BookinPaymentResultPageWidget.routeName,
+          path: BookinPaymentResultPageWidget.routePath,
+          builder: (context, params) => BookinPaymentResultPageWidget(),
+        ),
+        FFRoute(
+          name: TicketPageWidget.routeName,
+          path: TicketPageWidget.routePath,
+          builder: (context, params) => TicketPageWidget(),
         )
       ].map((r) => r.toRoute(appStateNotifier)).toList(),
     );
