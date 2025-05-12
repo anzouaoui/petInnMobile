@@ -1,0 +1,28 @@
+// Export pages
+export '/pages/authentications/onboarding_page/onboarding_page_widget.dart'
+    show OnboardingPageWidget;
+export '/pages/authentications/sign_up_page/sign_up_page_widget.dart'
+    show SignUpPageWidget;
+export '/pages/authentications/login_page/login_page_widget.dart'
+    show LoginPageWidget;
+export '/pages/authentications/forgot_password_page/forgot_password_page_widget.dart'
+    show ForgotPasswordPageWidget;
+export '/pages/home/home_page/home_page_widget.dart' show HomePageWidget;
+export '/pages/home/notifications_page/notifications_page_widget.dart'
+    show NotificationsPageWidget;
+export '/pages/home/popular_page/popular_page_widget.dart'
+    show PopularPageWidget;
+export '/pages/home/recommended_page/recommended_page_widget.dart'
+    show RecommendedPageWidget;
+export '/pages/favorites_page/favorites_page_widget.dart'
+    show FavoritesPageWidget;
+export '/pages/search/search_results_page/search_results_page_widget.dart'
+    show SearchResultsPageWidget;
+export '/pages/booking/my_booking_page/my_booking_page_widget.dart'
+    show MyBookingPageWidget;
+export '/pages/booking/refund_method_page/refund_method_page_widget.dart'
+    show RefundMethodPageWidget;
+export '/pages/property/property_page/property_page_widget.dart'
+    show PropertyPageWidget;
+export '/pages/booking/details_property_page/details_property_page_widget.dart'
+    show DetailsPropertyPageWidget;

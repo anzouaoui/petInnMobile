@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "53432124641",
+    "project_id": "petinn-cad67",
+    "storage_bucket": "petinn-cad67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53432124641:android:d76a779af92511835b23a0",
+        "android_client_info": {
+          "package_name": "com.flutterflow.PetInn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53432124641-r1grfv1m8gl2cc6t4gf2ke4jp9r6j8mh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.PetInn",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "53432124641-uou34rat6alg9cpmgflddjktf64vpg3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOTJFWP51Ja6p9C3DXycU8qT5rDbI1cmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53432124641-uou34rat6alg9cpmgflddjktf64vpg3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "53432124641-mga2en4v52pjgm6dmkpt0fc1m1g7vuc3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.homeU"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53432124641:android:88609b04b14d8d375b23a0",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53432124641-uou34rat6alg9cpmgflddjktf64vpg3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOTJFWP51Ja6p9C3DXycU8qT5rDbI1cmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53432124641-uou34rat6alg9cpmgflddjktf64vpg3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "53432124641-mga2en4v52pjgm6dmkpt0fc1m1g7vuc3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.homeU"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53432124641:android:7bf6d38b997aa6405b23a0",
+        "android_client_info": {
+          "package_name": "com.mycompany.petinn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53432124641-uou34rat6alg9cpmgflddjktf64vpg3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOTJFWP51Ja6p9C3DXycU8qT5rDbI1cmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53432124641-uou34rat6alg9cpmgflddjktf64vpg3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "53432124641-mga2en4v52pjgm6dmkpt0fc1m1g7vuc3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.homeU"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
