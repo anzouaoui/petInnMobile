@@ -38,3 +38,13 @@ export '/pages/booking/bookin_payment_result_page/bookin_payment_result_page_wid
     show BookinPaymentResultPageWidget;
 export '/pages/booking/ticket_page/ticket_page_widget.dart'
     show TicketPageWidget;
+export '/pages/settings/profile_page/profile_page_widget.dart'
+    show ProfilePageWidget;
+export '/pages/settings/edit_profile_page/edit_profile_page_widget.dart'
+    show EditProfilePageWidget;
+export '/pages/settings/notifications_setting_page/notifications_setting_page_widget.dart'
+    show NotificationsSettingPageWidget;
+export '/pages/settings/security_settings_page/security_settings_page_widget.dart'
+    show SecuritySettingsPageWidget;
+export '/pages/settings/languages_settings_page/languages_settings_page_widget.dart'
+    show LanguagesSettingsPageWidget;

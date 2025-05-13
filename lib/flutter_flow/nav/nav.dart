@@ -193,6 +193,33 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
           name: TicketPageWidget.routeName,
           path: TicketPageWidget.routePath,
           builder: (context, params) => TicketPageWidget(),
+        ),
+        FFRoute(
+          name: ProfilePageWidget.routeName,
+          path: ProfilePageWidget.routePath,
+          builder: (context, params) => params.isEmpty
+              ? NavBarPage(initialPage: 'ProfilePage')
+              : ProfilePageWidget(),
+        ),
+        FFRoute(
+          name: EditProfilePageWidget.routeName,
+          path: EditProfilePageWidget.routePath,
+          builder: (context, params) => EditProfilePageWidget(),
+        ),
+        FFRoute(
+          name: NotificationsSettingPageWidget.routeName,
+          path: NotificationsSettingPageWidget.routePath,
+          builder: (context, params) => NotificationsSettingPageWidget(),
+        ),
+        FFRoute(
+          name: SecuritySettingsPageWidget.routeName,
+          path: SecuritySettingsPageWidget.routePath,
+          builder: (context, params) => SecuritySettingsPageWidget(),
+        ),
+        FFRoute(
+          name: LanguagesSettingsPageWidget.routeName,
+          path: LanguagesSettingsPageWidget.routePath,
+          builder: (context, params) => LanguagesSettingsPageWidget(),
         )
       ].map((r) => r.toRoute(appStateNotifier)).toList(),
     );

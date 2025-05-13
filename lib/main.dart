@@ -167,6 +167,7 @@ class _NavBarPageState extends State<NavBarPage> {
     final tabs = {
       'HomePage': HomePageWidget(),
       'MyBookingPage': MyBookingPageWidget(),
+      'ProfilePage': ProfilePageWidget(),
     };
     final currentIndex = tabs.keys.toList().indexOf(_currentPageName);
 
@@ -195,7 +196,7 @@ class _NavBarPageState extends State<NavBarPage> {
               size: 30.0,
             ),
             label: FFLocalizations.of(context).getText(
-              'g3gqn6bc' /* Home */,
+              'w2tv9m7r' /* Home */,
             ),
             tooltip: '',
           ),
@@ -209,7 +210,21 @@ class _NavBarPageState extends State<NavBarPage> {
               size: 30.0,
             ),
             label: FFLocalizations.of(context).getText(
-              '6zq02jvf' /* Home */,
+              'qohnenho' /* Home */,
+            ),
+            tooltip: '',
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(
+              Icons.person_outlined,
+              size: 24.0,
+            ),
+            activeIcon: Icon(
+              Icons.person_sharp,
+              size: 30.0,
+            ),
+            label: FFLocalizations.of(context).getText(
+              'bbot8yc8' /* Home */,
             ),
             tooltip: '',
           )

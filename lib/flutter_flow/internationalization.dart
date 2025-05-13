@@ -533,7 +533,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'See all',
       'fr': 'Tout voir',
     },
-    'g3gqn6bc': {
+    'w2tv9m7r': {
       'en': 'Home',
       'fr': 'Maison',
     },
@@ -605,7 +605,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'no notification at the moment',
       'fr': 'aucune notification pour le moment',
     },
-    '1vcati7c': {
+    'mlz1g12i': {
       'en': 'Home',
       'fr': 'Maison',
     },
@@ -693,7 +693,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Please use another keyword',
       'fr': 'Veuillez utiliser un autre mot-clé',
     },
-    'fku4fuxy': {
+    'ydt0lnoo': {
       'en': 'Home',
       'fr': 'Maison',
     },
@@ -960,7 +960,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'You canceled this hotel booking',
       'fr': 'Vous avez annulé cette réservation d\'hôtel',
     },
-    '6zq02jvf': {
+    'qohnenho': {
       'en': 'Home',
       'fr': 'Maison',
     },
@@ -1005,7 +1005,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Confirm Cancellation',
       'fr': 'Confirmer l\'annulation',
     },
-    'zafmqphy': {
+    'tpgk4w4u': {
       'en': 'Home',
       'fr': 'Maison',
     },
@@ -1090,7 +1090,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Book Now',
       'fr': 'Réservez maintenant',
     },
-    '805mr0ot': {
+    'v96lhzrf': {
       'en': 'Home',
       'fr': 'Maison',
     },
@@ -1201,7 +1201,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Book Now',
       'fr': 'Réservez maintenant',
     },
-    'vwuw66gc': {
+    '7grkpffg': {
       'en': 'Home',
       'fr': 'Maison',
     },
@@ -1395,7 +1395,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Transportation',
       'fr': 'Transport',
     },
-    'ytalemw3': {
+    '86ycwu0g': {
       'en': 'Home',
       'fr': 'Maison',
     },
@@ -1710,7 +1710,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Book Now',
       'fr': 'Réservez maintenant',
     },
-    'hfs228id': {
+    'eqr4al33': {
       'en': 'Home',
       'fr': 'Maison',
     },
@@ -1763,7 +1763,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     's4a3dify': {
       'en': 'Enter your card email',
-      'fr': 'Entrez l\'email de votre carte',
+      'fr': 'Entrez l\'e-mail de votre carte',
     },
     'yevrbh61': {
       'en': 'Expiry Date',
@@ -1793,7 +1793,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Save and Continue',
       'fr': 'Enregistrer et continuer',
     },
-    'sbvrepkp': {
+    'exqzvg5c': {
       'en': 'Home',
       'fr': 'Maison',
     },
@@ -1840,7 +1840,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Try again',
       'fr': 'Essayer à nouveau',
     },
-    'xz7f4br1': {
+    'li4gkkql': {
       'en': 'Home',
       'fr': 'Maison',
     },
@@ -1947,7 +1947,278 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Download',
       'fr': 'Télécharger',
     },
-    '3c1luzp7': {
+    'edb18kus': {
+      'en': 'Home',
+      'fr': 'Maison',
+    },
+  },
+  // ProfilePage
+  {
+    'tw0yhhqo': {
+      'en': 'Profile',
+      'fr': 'Profil',
+    },
+    'huqzpymo': {
+      'en': 'Kathryn Murphy',
+      'fr': 'Kathryn Murphy',
+    },
+    'lruxdqvm': {
+      'en': 'kathrynmurphy@email.com',
+      'fr': 'kathrynmurphy@email.com',
+    },
+    'dc9ze80x': {
+      'en': 'Padang, Indonesia',
+      'fr': 'Padang, Indonésie',
+    },
+    '0nvnjlhj': {
+      'en': '+628xx xxxx xxxx',
+      'fr': '+628xx xxxx xxxx',
+    },
+    '0md6g5qf': {
+      'en': 'Points Balance',
+      'fr': 'Solde de points',
+    },
+    'xxl0h771': {
+      'en': '500 Points',
+      'fr': '500 points',
+    },
+    'owu3qnwo': {
+      'en': 'Settings',
+      'fr': 'Paramètres',
+    },
+    'lyqug4fj': {
+      'en': 'Notification Settings',
+      'fr': 'Paramètres de notification',
+    },
+    'rfxwkme5': {
+      'en': 'Privacy Settings',
+      'fr': 'Paramètres de confidentialité',
+    },
+    'ul5lf2ga': {
+      'en': 'Payments',
+      'fr': 'Paiements',
+    },
+    'yqw4t2xg': {
+      'en': 'Language Preferences',
+      'fr': 'Préférences linguistiques',
+    },
+    '40i9asnv': {
+      'en': 'Conditions of use',
+      'fr': 'Conditions d\'utilisation',
+    },
+    'j50rfsu2': {
+      'en': 'Help',
+      'fr': 'Aide',
+    },
+    'njhsr7ov': {
+      'en': 'Invite',
+      'fr': 'Inviter',
+    },
+    'cozpc92u': {
+      'en': 'Log out',
+      'fr': 'Se déconnecter',
+    },
+    'bbot8yc8': {
+      'en': 'Home',
+      'fr': 'Maison',
+    },
+  },
+  // EditProfilePage
+  {
+    'zu2y8v2n': {
+      'en': 'Edit Profile',
+      'fr': 'Modifier le profil',
+    },
+    '8aroznaf': {
+      'en': 'Name',
+      'fr': 'Nom',
+    },
+    'whpl8o5m': {
+      'en': '*',
+      'fr': '*',
+    },
+    'im4k5yvw': {
+      'en': 'Enter your full name',
+      'fr': 'Entrez votre nom complet',
+    },
+    'akhhulf3': {
+      'en': 'Firstname',
+      'fr': 'Prénom',
+    },
+    'vie9241i': {
+      'en': '*',
+      'fr': '*',
+    },
+    'az3qdl2r': {
+      'en': 'Enter your full name',
+      'fr': 'Entrez votre nom complet',
+    },
+    '6c8szgg4': {
+      'en': 'Email',
+      'fr': 'E-mail',
+    },
+    'jmkrve02': {
+      'en': '*',
+      'fr': '*',
+    },
+    'dmfyqiwm': {
+      'en': 'Enter your email',
+      'fr': 'Entrez votre email',
+    },
+    '1tcqez2w': {
+      'en': 'Gender',
+      'fr': 'Genre',
+    },
+    'ryn351xk': {
+      'en': '*',
+      'fr': '*',
+    },
+    'l0rc3vsi': {
+      'en': 'Select...',
+      'fr': 'Sélectionner...',
+    },
+    '7s2tr89h': {
+      'en': 'Search...',
+      'fr': 'Recherche...',
+    },
+    'ub35xexb': {
+      'en': 'Man',
+      'fr': 'Homme',
+    },
+    '6r4nrxe0': {
+      'en': 'Woman',
+      'fr': 'Femme',
+    },
+    'nrmic3qu': {
+      'en': 'Other',
+      'fr': 'Autre',
+    },
+    'jhgksqvi': {
+      'en': 'Date of birth',
+      'fr': 'Date de naissance',
+    },
+    '493slh4k': {
+      'en': '*',
+      'fr': '*',
+    },
+    'jdx4homm': {
+      'en': 'Select date of birth',
+      'fr': 'Sélectionnez la date de naissance',
+    },
+    'u4qisuer': {
+      'en': 'Save Changes',
+      'fr': 'Enregistrer les modifications',
+    },
+    'e4xw1xmz': {
+      'en': 'Home',
+      'fr': 'Maison',
+    },
+  },
+  // NotificationsSettingPage
+  {
+    'c21n1zu4': {
+      'en': 'Notification',
+      'fr': 'Notification',
+    },
+    'el6phcz1': {
+      'en': 'Sound',
+      'fr': 'Son',
+    },
+    'kzxd8gbe': {
+      'en': 'Vibrate',
+      'fr': 'Vibrer',
+    },
+    '09suwc49': {
+      'en': 'New tips available',
+      'fr': 'Nouveaux conseils disponibles',
+    },
+    'kac985vz': {
+      'en': 'New service available',
+      'fr': 'Nouveau service disponible',
+    },
+    'b8s6f0ac': {
+      'en': 'Home',
+      'fr': 'Maison',
+    },
+  },
+  // SecuritySettingsPage
+  {
+    '2z4j3jfz': {
+      'en': 'Security',
+      'fr': 'Sécurité',
+    },
+    '0zpqx50h': {
+      'en': 'Face ID',
+      'fr': 'Identification faciale',
+    },
+    'rv1ha7az': {
+      'en': 'Remember me',
+      'fr': 'Souviens-toi de moi',
+    },
+    'tmqq2mg1': {
+      'en': 'Touch ID',
+      'fr': 'Touch ID',
+    },
+    'qropm6jx': {
+      'en': 'Change Password',
+      'fr': 'Changer le mot de passe',
+    },
+    'y4nhr55x': {
+      'en': 'Home',
+      'fr': 'Maison',
+    },
+  },
+  // LanguagesSettingsPage
+  {
+    'tg3zlfgt': {
+      'en': 'Language',
+      'fr': 'Langue',
+    },
+    '46uuvzkh': {
+      'en': 'Suggested Languages',
+      'fr': 'Langues suggérées',
+    },
+    'mexvdre5': {
+      'en': 'English (UK)',
+      'fr': 'Anglais (Royaume-Uni)',
+    },
+    '5q86jyju': {
+      'en': 'English',
+      'fr': 'Anglais',
+    },
+    'd26pcg6w': {
+      'en': 'Bahasa Indonesia',
+      'fr': 'indonésien',
+    },
+    '9ww09d2g': {
+      'en': 'Other Languages',
+      'fr': 'Autres langues',
+    },
+    'aog8ywu2': {
+      'en': 'Chineses',
+      'fr': 'Chinois',
+    },
+    'brs5br19': {
+      'en': 'Croatian',
+      'fr': 'croate',
+    },
+    '41a0c241': {
+      'en': 'Czech',
+      'fr': 'tchèque',
+    },
+    'by1ha1lv': {
+      'en': 'Danish',
+      'fr': 'danois',
+    },
+    '45byibos': {
+      'en': 'Filipino',
+      'fr': 'Philippin',
+    },
+    'pldb63ma': {
+      'en': 'Finland',
+      'fr': 'Finlande',
+    },
+    'zff8rt3c': {
       'en': 'Home',
       'fr': 'Maison',
     },
@@ -2356,6 +2627,25 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     'c1c2e5s8': {
       'en': 'Confirm',
       'fr': 'Confirmer',
+    },
+  },
+  // LogoutComponent
+  {
+    '98ms366t': {
+      'en': 'Are You Sure?',
+      'fr': 'Es-tu sûr?',
+    },
+    'eu9dk1y5': {
+      'en': 'Do you want to log out?',
+      'fr': 'Voulez-vous vous déconnecter ?',
+    },
+    'ehl8bnnx': {
+      'en': 'Log Out',
+      'fr': 'Se déconnecter',
+    },
+    'l8cmpqhg': {
+      'en': 'Cancel',
+      'fr': 'Annuler',
     },
   },
   // Miscellaneous

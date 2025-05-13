@@ -143,7 +143,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                   .fontStyle,
                                         ),
                                   ),
-                                ].divide(SizedBox(width: 4.0)),
+                                ].divide(SizedBox(width: 8.0)),
                               ),
                               Padding(
                                 padding: EdgeInsetsDirectional.fromSTEB(
