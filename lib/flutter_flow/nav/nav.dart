@@ -220,6 +220,46 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
           name: LanguagesSettingsPageWidget.routeName,
           path: LanguagesSettingsPageWidget.routePath,
           builder: (context, params) => LanguagesSettingsPageWidget(),
+        ),
+        FFRoute(
+          name: HelpPageWidget.routeName,
+          path: HelpPageWidget.routePath,
+          builder: (context, params) => HelpPageWidget(),
+        ),
+        FFRoute(
+          name: FaqPageWidget.routeName,
+          path: FaqPageWidget.routePath,
+          builder: (context, params) => FaqPageWidget(),
+        ),
+        FFRoute(
+          name: ContactPageWidget.routeName,
+          path: ContactPageWidget.routePath,
+          builder: (context, params) => ContactPageWidget(),
+        ),
+        FFRoute(
+          name: TermsConditionsPageWidget.routeName,
+          path: TermsConditionsPageWidget.routePath,
+          builder: (context, params) => TermsConditionsPageWidget(),
+        ),
+        FFRoute(
+          name: PrivacyPolicyPageWidget.routeName,
+          path: PrivacyPolicyPageWidget.routePath,
+          builder: (context, params) => PrivacyPolicyPageWidget(),
+        ),
+        FFRoute(
+          name: AboutUsPageWidget.routeName,
+          path: AboutUsPageWidget.routePath,
+          builder: (context, params) => AboutUsPageWidget(),
+        ),
+        FFRoute(
+          name: InvitePageWidget.routeName,
+          path: InvitePageWidget.routePath,
+          builder: (context, params) => InvitePageWidget(),
+        ),
+        FFRoute(
+          name: PaymentSettingPageWidget.routeName,
+          path: PaymentSettingPageWidget.routePath,
+          builder: (context, params) => PaymentSettingPageWidget(),
         )
       ].map((r) => r.toRoute(appStateNotifier)).toList(),
     );

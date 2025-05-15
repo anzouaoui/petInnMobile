@@ -1,9 +1,9 @@
 import '/flutter_flow/flutter_flow_util.dart';
 import '/index.dart';
-import 'profile_page_widget.dart' show ProfilePageWidget;
+import 'help_page_widget.dart' show HelpPageWidget;
 import 'package:flutter/material.dart';
 
-class ProfilePageModel extends FlutterFlowModel<ProfilePageWidget> {
+class HelpPageModel extends FlutterFlowModel<HelpPageWidget> {
   @override
   void initState(BuildContext context) {}
 

@@ -2002,10 +2002,6 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Language Preferences',
       'fr': 'Préférences linguistiques',
     },
-    '40i9asnv': {
-      'en': 'Conditions of use',
-      'fr': 'Conditions d\'utilisation',
-    },
     'j50rfsu2': {
       'en': 'Help',
       'fr': 'Aide',
@@ -2219,6 +2215,393 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'fr': 'Finlande',
     },
     'zff8rt3c': {
+      'en': 'Home',
+      'fr': 'Maison',
+    },
+  },
+  // HelpPage
+  {
+    'a6wilkn9': {
+      'en': 'Help',
+      'fr': 'Aide',
+    },
+    'zekyu0ua': {
+      'en': 'Instagram',
+      'fr': 'Instagram',
+    },
+    'lvuc0cjk': {
+      'en': 'Facebook',
+      'fr': 'Facebook',
+    },
+    'd1yhcvu9': {
+      'en': 'Website',
+      'fr': 'Site web',
+    },
+    'u1rtk2ws': {
+      'en': 'FAQ',
+      'fr': 'FAQ',
+    },
+    'gydqh12t': {
+      'en': 'Contact us',
+      'fr': 'Contactez-nous',
+    },
+    'y3a9qqbk': {
+      'en': 'Terms & Conditions',
+      'fr': 'Conditions générales',
+    },
+    '2dt74ivm': {
+      'en': 'Privay Policy',
+      'fr': 'Politique de confidentialité',
+    },
+    '8wgcfd9n': {
+      'en': 'About Us',
+      'fr': 'À propos de nous',
+    },
+    'g3gqn6bc': {
+      'en': 'Home',
+      'fr': 'Maison',
+    },
+  },
+  // FaqPage
+  {
+    '8jqparct': {
+      'en': 'FAQ',
+      'fr': 'FAQ',
+    },
+    'o48f6pcy': {
+      'en': 'What is PetInn?',
+      'fr': 'Qu\'est-ce que PetInn ?',
+    },
+    'ojee6haf': {
+      'en':
+          'PetInn is greatest Real Estate Mobile App platform in this century.',
+      'fr':
+          'PetInn est la meilleure plateforme d\'applications mobiles immobilières de ce siècle.',
+    },
+    'lo8g15fl': {
+      'en': 'How to use PetInn?',
+      'fr': 'Comment utiliser PetInn ?',
+    },
+    's2s8r8sp': {
+      'en': 'Is PetInn is safe for me?',
+      'fr': 'PetInn est-il sûr pour moi ?',
+    },
+    '18a4cq97': {
+      'en': 'How to sell real estate on PetInn?',
+      'fr': 'Comment vendre un bien immobilier sur PetInn ?',
+    },
+    'iri6e23d': {
+      'en': 'How to logout from PetInn?',
+      'fr': 'Comment se déconnecter de PetInn ?',
+    },
+    '4ddi7n8x': {
+      'en': 'Is there a free tips to use this app',
+      'fr':
+          'Existe-t-il des conseils gratuits pour utiliser cette application ?',
+    },
+    'ggo6wwnf': {
+      'en': 'Is PetInn free to use?',
+      'fr': 'L\'utilisation de PetInn est-elle gratuite ?',
+    },
+    'av9dvqla': {
+      'en': 'How to make offer on PetInn ?',
+      'fr': 'Comment faire une offre sur PetInn ?',
+    },
+    '1vcati7c': {
+      'en': 'Home',
+      'fr': 'Maison',
+    },
+  },
+  // ContactPage
+  {
+    'zwl7do2z': {
+      'en': 'Contact us',
+      'fr': 'Contactez-nous',
+    },
+    'qclq75qv': {
+      'en': 'Full Name',
+      'fr': 'Nom et prénom',
+    },
+    '1obmph5g': {
+      'en': '*',
+      'fr': '*',
+    },
+    'c9peumm7': {
+      'en': 'Full Name',
+      'fr': 'Nom et prénom',
+    },
+    '7mvc9gqw': {
+      'en': 'Email',
+      'fr': 'E-mail',
+    },
+    '7idefe6f': {
+      'en': '*',
+      'fr': '*',
+    },
+    'y1keg7z4': {
+      'en': 'Email',
+      'fr': 'E-mail',
+    },
+    '4ejf47yy': {
+      'en': 'Message',
+      'fr': 'Message',
+    },
+    'cc42d4k3': {
+      'en': '*',
+      'fr': '*',
+    },
+    'duc7ucz8': {
+      'en': 'Max 250 words',
+      'fr': 'Max 250 mots',
+    },
+    'hdw2toii': {
+      'en': 'Message',
+      'fr': 'Message',
+    },
+    't4akcuqr': {
+      'en': 'Send ',
+      'fr': 'Envoyer',
+    },
+    'fku4fuxy': {
+      'en': 'Home',
+      'fr': 'Maison',
+    },
+  },
+  // TermsConditionsPage
+  {
+    'g6an3ejw': {
+      'en': 'Terms and Condition',
+      'fr': 'Conditions générales',
+    },
+    '4m6bs8w9': {
+      'en': 'Introduction',
+      'fr': 'Introduction',
+    },
+    'b589fq51': {
+      'en':
+          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna id volutpat lacus laoreet non curabitur gravida arcu. Amet nisl purus in mollis nunc sed id. Elementum curabitur vitae nunc sed. A pellentesque sit amet porttitor eget. Ac turpis egestas integer eget aliquet nibh. Nibh praesent tristique magna sit amet purus gravida. Sagittis nisl rhoncus mattis rhoncus urna neque viverra. Volutpat sed cras ornare arcu dui vivamus arcu felis bibendum. Sagittis nisl rhoncus mattis rhoncus urna neque viverra. Volutpat sed cras ornare arcu dui vivamus arcu felis bibendum.',
+      'fr':
+          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna id volutpat lacus laoreet non curabitur gravida arcu. Amet nisl purus in mollis nunc sed id. Elementum curabitur vitae nunc sed. Un siège pelletesque amet porttitor eget. Ac turpis egestas entier eget aliquet nibh. Nibh praesent tristique magna sit amet purus gravida. Sagittis nisl rhoncus mattis rhoncus urna neque viverra. Volutpat sed cras ornare arcu dui vivamus arcu felis bibendum. Sagittis nisl rhoncus mattis rhoncus urna neque viverra. Volutpat sed cras ornare arcu dui vivamus arcu felis bibendum.',
+    },
+    'rtv4x73z': {
+      'en': 'Accessing the Service',
+      'fr': 'Accéder au service',
+    },
+    'g3tokoy9': {
+      'en':
+          'Sagittis vitae et leo duis ut diam. Et pharetra pharetra massa massa. Faucibus et molestie ac feugiat. Ac feugiat sed lectus vestibulum. Sagittis eu volutpat odio facilisis. Venenatis urna cursus eget nunc scelerisque viverra mauris. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum consequat. Etiam tempor orci eu lobortis elementum nibh. Quis auctor elit sed vulputate mi sit. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat orci. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Condimentum mattis pellentesque id nibh tortor id. Lorem sed risus ultricies tristique nulla aliquet enim',
+      'fr':
+          'Sagittis vitae et lion duis ut diam. Et pharetra pharetra massa massa. Faucibus et molestie ac feugiat. Ac feugiat sed lectus vestibulum. Sagittis eu volutpat odio facilisis. Venenatis urna cursus eget nunc scelerisque viverra mauris. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum consequat. Etiam tempor orci eu lobortis elementum nibh. Quis auctor elit sed vulputate mi sit. Quis ipsum suspendisse les ultrices gravida dictum fusionnent avec le placerat orci. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Condimentum mattis pellentesque id nibh tortor id. Lorem sed risus ultricies tristique nulla aliquet enim',
+    },
+    '6zq02jvf': {
+      'en': 'Home',
+      'fr': 'Maison',
+    },
+  },
+  // PrivacyPolicyPage
+  {
+    '3ta58mdt': {
+      'en': 'Privacy Policy',
+      'fr': 'politique de confidentialité',
+    },
+    'vo10ytju': {
+      'en': 'Introduction',
+      'fr': 'Introduction',
+    },
+    '8ou90j78': {
+      'en':
+          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna id volutpat lacus laoreet non curabitur gravida arcu. Amet nisl purus in mollis nunc sed id. Elementum curabitur vitae nunc sed. A pellentesque sit amet porttitor eget. Ac turpis egestas integer eget aliquet nibh. Nibh praesent tristique magna sit amet purus gravida. Sagittis nisl rhoncus mattis rhoncus urna neque viverra. Volutpat sed cras ornare arcu dui vivamus arcu felis bibendum. Sagittis nisl rhoncus mattis rhoncus urna neque viverra. Volutpat sed cras ornare arcu dui vivamus arcu felis bibendum.',
+      'fr':
+          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna id volutpat lacus laoreet non curabitur gravida arcu. Amet nisl purus in mollis nunc sed id. Elementum curabitur vitae nunc sed. Un siège pelletesque amet porttitor eget. Ac turpis egestas entier eget aliquet nibh. Nibh praesent tristique magna sit amet purus gravida. Sagittis nisl rhoncus mattis rhoncus urna neque viverra. Volutpat sed cras ornare arcu dui vivamus arcu felis bibendum. Sagittis nisl rhoncus mattis rhoncus urna neque viverra. Volutpat sed cras ornare arcu dui vivamus arcu felis bibendum.',
+    },
+    'wiolzjbu': {
+      'en': 'Accessing the Service',
+      'fr': 'Accéder au service',
+    },
+    'yiplk4c7': {
+      'en':
+          'Sagittis vitae et leo duis ut diam. Et pharetra pharetra massa massa. Faucibus et molestie ac feugiat. Ac feugiat sed lectus vestibulum. Sagittis eu volutpat odio facilisis. Venenatis urna cursus eget nunc scelerisque viverra mauris. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum consequat. Etiam tempor orci eu lobortis elementum nibh. Quis auctor elit sed vulputate mi sit. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat orci. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Condimentum mattis pellentesque id nibh tortor id. Lorem sed risus ultricies tristique nulla aliquet enim',
+      'fr':
+          'Sagittis vitae et lion duis ut diam. Et pharetra pharetra massa massa. Faucibus et molestie ac feugiat. Ac feugiat sed lectus vestibulum. Sagittis eu volutpat odio facilisis. Venenatis urna cursus eget nunc scelerisque viverra mauris. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum consequat. Etiam tempor orci eu lobortis elementum nibh. Quis auctor elit sed vulputate mi sit. Quis ipsum suspendisse les ultrices gravida dictum fusionnent avec le placerat orci. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Condimentum mattis pellentesque id nibh tortor id. Lorem sed risus ultricies tristique nulla aliquet enim',
+    },
+    'w332gw1e': {
+      'en': 'Home',
+      'fr': 'Maison',
+    },
+  },
+  // AboutUsPage
+  {
+    '19r7w14t': {
+      'en': 'About us',
+      'fr': 'À propos de nous',
+    },
+    'tcixrgou': {
+      'en': 'We focus on the Digital Economy',
+      'fr': 'Nous nous concentrons sur l\'économie numérique',
+    },
+    '2nbfevex': {
+      'en':
+          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna id volutpat lacus laoreet non curabitur gravida arcu. Amet nisl purus in mollis nunc sed id. Elementum curabitur vitae nunc sed. A pellentesque sit amet porttitor eget. Ac turpis egestas integer eget aliquet nibh. Nibh praesent tristique magna sit amet purus gravida.',
+      'fr':
+          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna id volutpat lacus laoreet non curabitur gravida arcu. Amet nisl purus in mollis nunc sed id. Elementum curabitur vitae nunc sed. Un siège pelletesque amet porttitor eget. Ac turpis egestas entier eget aliquet nibh. Nibh praesent tristique magna sit amet purus gravida.',
+    },
+    '4aq2rxjz': {
+      'en':
+          'Sagittis vitae et leo duis ut diam. Et pharetra pharetra massa massa. Faucibus et molestie ac feugiat. Ac feugiat sed lectus vestibulum. Sagittis eu volutpat odio facilisis. Venenatis urna cursus eget nunc scelerisque viverra mauris. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum consequat. Etiam tempor orci eu lobortis elementum nibh. Quis auctor elit sed vulputate mi sit.',
+      'fr':
+          'Sagittis vitae et lion duis ut diam. Et pharetra pharetra massa massa. Faucibus et molestie ac feugiat. Ac feugiat sed lectus vestibulum. Sagittis eu volutpat odio facilisis. Venenatis urna cursus eget nunc scelerisque viverra mauris. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum consequat. Etiam tempor orci eu lobortis elementum nibh. Quis auctor elit sed vulputate mi sit.',
+    },
+    'zu6snxw0': {
+      'en':
+          'Sagittis eu volutpat odio facilisis. Venenatis urna cursus eget nunc scelerisque viverra mauris. Facilisi cras',
+      'fr':
+          'Sagittis eu volutpat odio facilisis. Venenatis urna cursus eget nunc scelerisque viverra mauris. Facilisi cras',
+    },
+    'zafmqphy': {
+      'en': 'Home',
+      'fr': 'Maison',
+    },
+  },
+  // InvitePage
+  {
+    'mlp72scb': {
+      'en': 'Invite Friends',
+      'fr': 'Inviter des amis',
+    },
+    'w5v98lx7': {
+      'en': 'Darrell Steward',
+      'fr': 'Darrell Steward',
+    },
+    'sjl0sdku': {
+      'en': '+62-818-5551-71',
+      'fr': '+62-818-5551-71',
+    },
+    '3w8cte29': {
+      'en': 'Invite',
+      'fr': 'Inviter',
+    },
+    '792ad093': {
+      'en': 'Robert Fox',
+      'fr': 'Robert Fox',
+    },
+    'ubh54i14': {
+      'en': '+62-819-5558-60',
+      'fr': '+62-819-5558-60',
+    },
+    'act5xwcm': {
+      'en': 'Invited',
+      'fr': 'Invité',
+    },
+    'tirsrsrr': {
+      'en': 'Wade Warren',
+      'fr': 'Wade Warren',
+    },
+    '16swaxg7': {
+      'en': '+62-878-5551-31',
+      'fr': '+62-878-5551-31',
+    },
+    'wb5kiyg2': {
+      'en': 'Invite',
+      'fr': 'Inviter',
+    },
+    't542lxdr': {
+      'en': 'Kristin Watson',
+      'fr': 'Kristin Watson',
+    },
+    'ukd05kmz': {
+      'en': '+62-838-5554-60',
+      'fr': '+62-838-5554-60',
+    },
+    'twomoni3': {
+      'en': 'Invited',
+      'fr': 'Invité',
+    },
+    '2sy7sljv': {
+      'en': 'Marvin McKinney',
+      'fr': 'Marvin McKinney',
+    },
+    'gqscpv7u': {
+      'en': '+62-838-5552-72',
+      'fr': '+62-838-5552-72',
+    },
+    'k2swzee1': {
+      'en': 'Invited',
+      'fr': 'Invité',
+    },
+    'cmtqtyx7': {
+      'en': 'Savannah Nguyen',
+      'fr': 'Savannah Nguyen',
+    },
+    'b3cennme': {
+      'en': '+62-857-5558-60',
+      'fr': '+62-857-5558-60',
+    },
+    'c5asxcu0': {
+      'en': 'Invite',
+      'fr': 'Inviter',
+    },
+    'z7hos104': {
+      'en': 'Guy Hawkins',
+      'fr': 'Guy Hawkins',
+    },
+    '7qs3rqbd': {
+      'en': '+62-814-5557-92',
+      'fr': '+62-814-5557-92',
+    },
+    '7nwsmoct': {
+      'en': 'Invite',
+      'fr': 'Inviter',
+    },
+    'wxqoa7at': {
+      'en': 'Kristin Watson',
+      'fr': 'Kristin Watson',
+    },
+    'ld7jc3at': {
+      'en': '+62-838-5554-60',
+      'fr': '+62-838-5554-60',
+    },
+    'yr4izfak': {
+      'en': 'Invited',
+      'fr': 'Invité',
+    },
+    '805mr0ot': {
+      'en': 'Home',
+      'fr': 'Maison',
+    },
+  },
+  // PaymentSettingPage
+  {
+    'ssgz82qm': {
+      'en': 'Payment & cards',
+      'fr': 'Paiement et cartes',
+    },
+    '09y4xbox': {
+      'en':
+          'Please select a payment refund method (only 80% will be refunded).',
+      'fr':
+          'Veuillez sélectionner un mode de remboursement de paiement (seulement 80 % seront remboursés).',
+    },
+    'slj6pyv1': {
+      'en': 'Paypal',
+      'fr': 'PayPal',
+    },
+    'isbd49g4': {
+      'en': 'Google Pay',
+      'fr': 'Google Pay',
+    },
+    'gzca4r4v': {
+      'en': 'Apple Pay',
+      'fr': 'Apple Pay',
+    },
+    'pdvrqacn': {
+      'en': '•••• •••• •••• 4679',
+      'fr': '•••• •••• •••• 4679',
+    },
+    '9gtwgisx': {
+      'en': 'Add payment',
+      'fr': 'Ajouter un paiement',
+    },
+    'banpcjei': {
       'en': 'Home',
       'fr': 'Maison',
     },

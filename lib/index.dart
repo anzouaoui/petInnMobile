@@ -48,3 +48,18 @@ export '/pages/settings/security_settings_page/security_settings_page_widget.dar
     show SecuritySettingsPageWidget;
 export '/pages/settings/languages_settings_page/languages_settings_page_widget.dart'
     show LanguagesSettingsPageWidget;
+export '/pages/settings/help/help_page/help_page_widget.dart'
+    show HelpPageWidget;
+export '/pages/settings/help/faq_page/faq_page_widget.dart' show FaqPageWidget;
+export '/pages/settings/help/contact_page/contact_page_widget.dart'
+    show ContactPageWidget;
+export '/pages/settings/help/terms_conditions_page/terms_conditions_page_widget.dart'
+    show TermsConditionsPageWidget;
+export '/pages/settings/help/privacy_policy_page/privacy_policy_page_widget.dart'
+    show PrivacyPolicyPageWidget;
+export '/pages/settings/help/about_us_page/about_us_page_widget.dart'
+    show AboutUsPageWidget;
+export '/pages/settings/invite_page/invite_page_widget.dart'
+    show InvitePageWidget;
+export '/pages/settings/payment_setting_page/payment_setting_page_widget.dart'
+    show PaymentSettingPageWidget;
